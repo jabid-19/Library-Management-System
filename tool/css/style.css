@@ -1,0 +1,64 @@
+.header{
+   background-color: rgb(26, 194, 180);
+   height: 50px;
+   color: white;
+   padding: 5px;
+   text-align: center;
+}
+
+.banner{
+    background:url('../img/cimg.png');
+    height: 350px;
+    background-size: 100%;
+}
+.login{
+    background-color: rgb(135, 197, 191);
+    text-align: center;
+    padding-top: 20px;
+    width: 900px;
+    border-radius: 20px;
+    margin-top: 6px;
+}
+
+.login h2{
+    color: rgb(241, 237, 241);
+}
+.form{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    place-items: center;
+    align-content: center;
+    padding: 20px;
+    color: rgb(36, 20, 20);
+}
+.btn-primary{
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 90px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 5px;
+}
+a{
+    color: rgb(252, 252, 252);
+    font-size: 15px;
+    font-weight: 900;
+}
+.dash{
+    background-color: rgb(135, 197, 191);
+    text-align: center;
+    padding: 20px;
+    width: 900px;
+    border-radius: 20px;
+    margin-top: 6px;
+}
+.stock{
+    text-align: center;
+}
+.list{
+    text-align: left;
+}
